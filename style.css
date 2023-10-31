@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right, blue, rgb(114, 105, 240), black );
+}
+header{
+    text-align: center;
+    font-size: xx-large;
+    color:rgb(1, 211, 248);
+    padding-bottom:30px;
+}
+table, caption, th, td{
+    color: rgb(251, 255, 255);
+    text-align: center;
+    margin-right: auto;
+    margin-left:auto;
+    border-style:solid;
+    border-color: rgb(70, 214, 207);
+    border-width: 5px;
+}
+table{
+    padding:10px;
+}
+.head{
+    font-size: x-large;
+    font-weight: bold;
+}
